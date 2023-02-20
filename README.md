@@ -1,2 +1,1 @@
-# Connect_Four
-One of my earliest Python projects
+One of my earliest Python projects. Feel free to download the program and run it yourself. You will need Python and Pygame on your computer to run it successfully. Alternatively, watch a video of the game in action here: https://drive.google.com/file/d/1mdqkt0NgDsif-Lb9U0TeOymaODOx-WiU/view?usp=sharing
